@@ -1,2 +1,0 @@
-npm create vite@latest frontend -- -- template react (ติดตั้ง react)
-npm install axios react react-dom jwt-decode (ติดตั้งเครื่องมือสำหรับ frontend)
